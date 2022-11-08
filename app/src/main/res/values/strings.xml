@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
-    <string name="title">Glenferrie Station, ca. 1934</string>
-    <string name="artist">Ada My Planet</string>
-    <string name="source">Source: slv.vic.go.au</string>
+    <string name="title">Swinburn University of Technology</string>
+    <string name="artist">Android Studio - FullStack Developer</string>
+    <string name="source">2022 Source: written by Thang Truong</string>
 </resources>
