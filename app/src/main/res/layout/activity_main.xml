@@ -12,29 +12,32 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textSize="24sp"
-        android:text="@string/title" />
+        android:text="@string/title"
+        android:textColor="@color/purple_700"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/artist"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textSize="18sp"
-        android:text="@string/artist" />
+        android:textColor="@color/purple_700"
+        android:text="@string/artist"
+        android:textSize="18sp" />
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="664dp"
+        android:layout_height="wrap_content"
         android:layout_weight="1"
-        app:srcCompat="@drawable/android_logo" />
+        app:srcCompat="@drawable/swinburne_online" />
 
     <TextView
         android:id="@+id/source"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textSize="18sp"
-        android:text="@string/source" />
+        android:textColor="@color/purple_700"
+        android:text="@string/source"
+        android:textSize="18sp" />
 </LinearLayout>

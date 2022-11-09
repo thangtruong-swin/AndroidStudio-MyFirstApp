@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
-    <string name="title">Swinburn University of Technology</string>
-    <string name="artist">Android Studio - FullStack Developer</string>
-    <string name="source">2022 Source: written by Thang Truong</string>
+    <string name="title">Welcome to C0S30017</string>
+    <string name="artist">Software Development for Mobile Devices</string>
+    <string name="source">TP3-2022 - written by Thang Truong</string>
 </resources>
